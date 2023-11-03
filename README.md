@@ -15,3 +15,4 @@ Simple guide to setup apps quickly on Windows machine post installation via [cho
 4. `choco install googlechrome line adobereader anydesk.install` for essential apps. Adjust apps based on personal needs.
 5. `choco list` to see installed apps.
 6. `choco upgrade all` for upgrade.
+7. `choco uninstall googlechrome` for uninstall. 
