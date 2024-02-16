@@ -18,7 +18,7 @@ Choco installation command:
 
 `choco -?` to check if choco is here.
 
-`choco install googlechrome line adobereader anydesk.install` for essential apps. Adjust apps based on personal needs.
+`choco install googlechrome line adobereader anydesk.install` for app installation.
 
 `choco list` to see installed apps.
 
